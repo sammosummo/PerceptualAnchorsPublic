@@ -1,0 +1,4 @@
+Minimum Rhat = 0.9999500012623813
+Minimum Neff = 2593.2812568194017
+Bayesian median R2 = 0.978
+BFMI = 1.0168724259204394
